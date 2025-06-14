@@ -1,0 +1,17 @@
+
+# python-dotenv
+# langchain
+# langchain-openai
+# langchain-groq
+# langchain-core
+# langchain-community
+# pypdf
+# bs4
+# PyMuPDF
+# langchain_huggingface
+# Milvus
+# langchain-mongodb
+pymilvus>=2.3.4
+langchain
+pymilvus
+openai
